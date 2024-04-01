@@ -1,5 +1,5 @@
 {
-  "name": "TOKEN_NAME",
-  "symbol": "SYM",
-  "uri": "https://arweave.net/json-file-arweave-url"
+  "name": "doginsuit",
+  "symbol": "DGS",
+  "uri": "https://raw.githubusercontent.com/mvrcuz/doginsuit/main/doginsuit.json"
 }
