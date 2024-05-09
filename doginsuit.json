@@ -2,7 +2,7 @@
   "name": "doginsuit",
   "symbol": "$DGS",
   "description": "very successful dog in suit! t.me/doginsuit",
-  "image": "https://ipfs.io/ipfs/QmNW2v4vmntvUo8cJDvq1gxL2x54A8FpPUjmxejaFS11bW",
+  "image": "https://arweave.net/B4WvqkzSQATq-r4FXLIQuaybDkkzU-OlFog_-UPjc98",
   "tags": [
         "meme-token",
         "community-token",
@@ -10,6 +10,7 @@
       ],
   "extensions": {
         "telegram": "https://t.me/doginsuit",
+        "instagram": "https://www.instagram.com/doginsuitcoin",
         "twitter": "https://x.com/doginsuitcoin",
         "website": "https://doginsuit.org"
       }
